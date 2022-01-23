@@ -1,4 +1,5 @@
 <x-guest-layout>
+    <!--Agregamos este link para registrarnos-->
     <x-jet-authentication-card>
         <x-slot name="logo">
             <x-jet-authentication-card-logo />
